@@ -1,0 +1,2 @@
+# getAllBundleIDOnDevice
+使用runtime获取设备上的所有app的bundle id
